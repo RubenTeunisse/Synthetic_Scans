@@ -4,7 +4,7 @@ A simple autoencoder for generating synthetic CT scans of skulls.
 This work currently only contains a working framework for 2d slices and lacks practically useful performance. 
 
 ![plot](./plots/Results.png)
-![plot](./plots/GUI.png)
+![plot](./plots/GUI_small.png)
 
 It is optimized for the CERMEP dataset.
 
