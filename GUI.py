@@ -1,3 +1,5 @@
+""" Created by Ruben Teunisse 2021 """
+
 import joblib
 from tkinter import *
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
