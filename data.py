@@ -1,3 +1,5 @@
+""" Created by Ruben Teunisse 2021 """
+
 import nibabel as nib
 import numpy as np
 import os
